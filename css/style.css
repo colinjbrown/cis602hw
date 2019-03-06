@@ -1,0 +1,25 @@
+/* css goes here */
+
+circle{
+    fill: blue;
+}
+
+circle.active, circle.active2 {
+    fill:red;
+}
+
+circle.lowaff {
+    fill: darkred;
+}
+
+circle.midaff {
+    fill: brown;
+}
+
+circle.highaff {
+    fill: lime;
+}
+
+#aff, #aff2{
+    display: flex;
+}
